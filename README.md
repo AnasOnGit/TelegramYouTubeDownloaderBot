@@ -4,4 +4,4 @@ Telegram bot to download YouTube videos. NodeJs server.
 
 - This project is under development.
 
-**_ Full documention coming soon. _**
+* Full documention coming soon.
